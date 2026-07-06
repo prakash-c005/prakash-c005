@@ -31,20 +31,18 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prakash-c-553694296">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/prakash-c005">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/prakash_005/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
-
----
 
 <div align="center">
 
@@ -259,17 +257,17 @@ Currently, I'm focused on improving my backend development skills through hands-
 
 ---
 
-## Engineering Focus
+## Core Technologies
 
-| Domain | Current Focus | Confidence |
-|:-------|:-------------|:----------:|
-| Java Development | Backend Applications | ⭐⭐⭐⭐⭐ |
-| Spring Boot | REST APIs & Backend Services | ⭐⭐⭐⭐☆ |
-| SQL | Database Design & Queries | ⭐⭐⭐⭐☆ |
-| Cyber Security | SOC Fundamentals | ⭐⭐⭐⭐☆ |
-| Incident Response | Learning & Hands-on Practice | ⭐⭐⭐☆☆ |
-| Threat Hunting | Continuous Learning | ⭐⭐⭐☆☆ |
-| Python | Security Automation Basics | ⭐⭐⭐☆☆ |
+| Domain | Technologies |
+|:-------|:-------------|
+| Backend Development | Java • Spring Boot • Flask |
+| Database | MySQL |
+| Software Engineering | OOP • Collections • JDBC • Maven |
+| Cyber Security | SOC • Incident Response • Threat Hunting |
+| Security Tools | Wireshark • tcpdump • Nmap • Hydra |
+| Version Control | Git • GitHub |
+| Operating System | Linux |
 
 ---
 
@@ -382,10 +380,8 @@ A web-based audio streaming application developed to stream synchronized audio a
 
 ### Repository
 
-> Replace with your repository link after uploading.
-
 ```
-https://github.com/prakash-c005/<multi-tws-repository>
+[View Repository](https://github.com/prakash-c005/multi-tws-audio-stream)
 ```
 
 </details>
@@ -442,24 +438,11 @@ A Java console application designed to strengthen object-oriented programming fu
 
 ### Repository
 
-> Replace with your repository link after uploading.
-
 ```
-https://github.com/prakash-c005/<todo-application-repository>
+[View Repository](https://github.com/prakash-c005/ToDo-App)
 ```
 
 </details>
-
----
-
-## 🚀 Upcoming Projects
-
-| Project | Domain | Status |
-|:--------|:-------|:------:|
-| 🔐 Secure Folder System | Secure Software Engineering | In Development |
-| 🛡 AI-Powered Malware Traffic Detection & SOC Dashboard | Cyber Security | Planning & Research |
-
-> These projects are currently under active development and will be added as featured repositories upon completion.
 
 ---
 # Experience
@@ -501,12 +484,12 @@ Worked as a Cyber Security Intern, gaining practical exposure to cybersecurity c
 
 | Provider | Certification |
 |:---------|:--------------|
-| 🎓 Amigoscode | Spring Boot for Beginners |
-| 💼 ShadowFox | Cyber Security Virtual Internship |
-| 🛡 OWASP | Coimbatore Chapter Meetup Participation |
-| 🎯 TryHackMe | Advent of Cyber 2025 |
-| 🎯 TryHackMe | Love at First Breach CTF |
-| 🏆 College Event | Inter-College Capture The Flag (CTF) |
+| Amigoscode | Spring Boot for Beginners |
+| ShadowFox | Cyber Security Virtual Internship |
+| OWASP | Coimbatore Chapter Meetup Participation |
+| TryHackMe | Advent of Cyber 2025 |
+| TryHackMe | Love at First Breach CTF |
+| College Event | Inter-College Capture The Flag (CTF) |
 
 </div>
 
@@ -552,12 +535,12 @@ Worked as a Cyber Security Intern, gaining practical exposure to cybersecurity c
 
 | Achievement | Description |
 |:------------|:------------|
-| 💼 Internship | Successfully completed a one-month Cyber Security Internship at ShadowFox. |
-| 🛡 Community | Participated in the OWASP Coimbatore Chapter Meetup. |
-| 🎯 TryHackMe | Completed Advent of Cyber 2025 with 24 cybersecurity challenges. |
-| 🚩 CTF | Participated in Love at First Breach CTF by TryHackMe. |
-| 🏆 Competition | Participated in an Inter-College Capture The Flag competition. |
-| 📚 Learning | Continuously improving Java Backend Development and Security Operations skills. |
+| Internship | Successfully completed a one-month Cyber Security Internship at ShadowFox. |
+| Community | Participated in the OWASP Coimbatore Chapter Meetup. |
+| TryHackMe | Completed Advent of Cyber 2025 with 24 cybersecurity challenges. |
+| CTF | Participated in Love at First Breach CTF by TryHackMe. |
+| Competition | Participated in an Inter-College Capture The Flag competition. |
+| Learning | Continuously improving Java Backend Development and Security Operations skills. |
 
 ---
 
