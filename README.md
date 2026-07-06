@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:4338CA&text=Prakash%20C&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20SOC%20Analyst%20Aspirant&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:4338CA&text=Prakash%20C&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Security%20Operations"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Secure+Software+Engineering;SOC+Analyst+Aspirant;Incident+Response+%26+Threat+Hunting;Spring+Boot+Developer;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Secure+Software+Engineer;Security+Operations+Enthusiast;Building+Reliable+Systems)](https://github.com/prakash-c005)
 
 </div>
 
@@ -31,18 +31,20 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prakash-c-553694296">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/prakash-c005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/prakash_005/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -53,6 +55,7 @@
 ![](https://img.shields.io/github/stars/prakash-c005?style=for-the-badge&color=7C3AED&labelColor=1f1f1f)
 
 </div>
+
 # About Me
 
 <div align="center">
@@ -63,9 +66,9 @@
 
 I'm **Prakash C**, a Computer Science undergraduate specializing in **Cyber Security**, with a strong interest in **Java Backend Development** and **Security Operations (SOC)**.
 
-I enjoy building secure, maintainable, and scalable applications while continuously strengthening my knowledge of secure software engineering, Spring Boot, incident response, and threat detection. My goal is to bridge software engineering and cybersecurity by developing systems that are both reliable and security-conscious.
+I enjoy building secure, maintainable, and scalable applications while continuously strengthening my knowledge of secure software engineering, Spring Boot, incident response, and threat detection. My passion lies in creating backend systems that prioritize security from day one.
 
-Currently, I'm focused on improving my backend development skills through hands-on projects while expanding my practical understanding of Security Operations Center (SOC) workflows, threat hunting methodologies, and defensive security practices.
+Currently, I'm focused on improving my backend development skills through hands-on projects while expanding my practical understanding of Security Operations Center (SOC) workflows, threat hunting methodologies, and incident response procedures. I believe in learning through building real projects and solving actual problems.
 
 ---
 
@@ -166,6 +169,7 @@ Currently, I'm focused on improving my backend development skills through hands-
 ```
 
 ---
+
 # Tech Stack
 
 <div align="center">
@@ -184,7 +188,6 @@ Currently, I'm focused on improving my backend development skills through hands-
 
 <img src="https://skillicons.dev/icons?i=java" height="55"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=python" height="55"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=html" height="55"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="55"/>
 
@@ -201,7 +204,6 @@ Currently, I'm focused on improving my backend development skills through hands-
 <p>
 
 <img src="https://skillicons.dev/icons?i=spring" height="55"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=flask" height="55"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=maven" height="55"/>
 
 </p>
@@ -261,7 +263,7 @@ Currently, I'm focused on improving my backend development skills through hands-
 
 | Domain | Technologies |
 |:-------|:-------------|
-| Backend Development | Java • Spring Boot • Flask |
+| Backend Development | Java • Spring Boot |
 | Database | MySQL |
 | Software Engineering | OOP • Collections • JDBC • Maven |
 | Cyber Security | SOC • Incident Response • Threat Hunting |
@@ -320,6 +322,7 @@ Continuous Improvement
 ```
 
 ---
+
 # Featured Projects
 
 <div align="center">
@@ -340,7 +343,7 @@ Continuous Improvement
 
 ### Overview
 
-A web-based audio streaming application developed to stream synchronized audio across multiple **True Wireless Stereo (TWS)** devices. The project explores multimedia streaming, audio synchronization, and lightweight backend communication while providing a simple browser-based interface.
+A web-based audio streaming application developed to stream synchronized audio across multiple **True Wireless Stereo (TWS)** devices. The project explores multimedia streaming, audio synchronization, and real-time communication between client and server applications.
 
 | Category | Details |
 |:---------|:--------|
@@ -380,9 +383,7 @@ A web-based audio streaming application developed to stream synchronized audio a
 
 ### Repository
 
-```
 [View Repository](https://github.com/prakash-c005/multi-tws-audio-stream)
-```
 
 </details>
 
@@ -438,13 +439,23 @@ A Java console application designed to strengthen object-oriented programming fu
 
 ### Repository
 
-```
 [View Repository](https://github.com/prakash-c005/ToDo-App)
-```
 
 </details>
 
 ---
+
+## 🚀 Upcoming Projects
+
+| Project | Domain | Status |
+|:--------|:-------|:------:|
+| 🔐 Secure Folder System | Secure Software Engineering | In Development |
+| 🛡 AI-Powered Malware Traffic Detection & SOC Dashboard | Cyber Security | Planning & Research |
+
+> These projects are currently under active development and will be added as featured repositories upon completion.
+
+---
+
 # Experience
 
 <div align="center">
@@ -484,12 +495,12 @@ Worked as a Cyber Security Intern, gaining practical exposure to cybersecurity c
 
 | Provider | Certification |
 |:---------|:--------------|
-| Amigoscode | Spring Boot for Beginners |
-| ShadowFox | Cyber Security Virtual Internship |
-| OWASP | Coimbatore Chapter Meetup Participation |
-| TryHackMe | Advent of Cyber 2025 |
-| TryHackMe | Love at First Breach CTF |
-| College Event | Inter-College Capture The Flag (CTF) |
+| 🎓 Amigoscode | Spring Boot for Beginners |
+| 💼 ShadowFox | Cyber Security Virtual Internship |
+| 🛡 OWASP | Coimbatore Chapter Meetup Participation |
+| 🎯 TryHackMe | Advent of Cyber 2025 |
+| 🎯 TryHackMe | Love at First Breach CTF |
+| 🏆 College Event | Inter-College Capture The Flag (CTF) |
 
 </div>
 
@@ -535,12 +546,12 @@ Worked as a Cyber Security Intern, gaining practical exposure to cybersecurity c
 
 | Achievement | Description |
 |:------------|:------------|
-| Internship | Successfully completed a one-month Cyber Security Internship at ShadowFox. |
-| Community | Participated in the OWASP Coimbatore Chapter Meetup. |
-| TryHackMe | Completed Advent of Cyber 2025 with 24 cybersecurity challenges. |
-| CTF | Participated in Love at First Breach CTF by TryHackMe. |
-| Competition | Participated in an Inter-College Capture The Flag competition. |
-| Learning | Continuously improving Java Backend Development and Security Operations skills. |
+| 💼 Internship | Successfully completed a one-month Cyber Security Internship at ShadowFox. |
+| 🛡 Community | Participated in the OWASP Coimbatore Chapter Meetup. |
+| 🎯 TryHackMe | Completed Advent of Cyber 2025 with 24 cybersecurity challenges. |
+| 🚩 CTF | Participated in Love at First Breach CTF by TryHackMe. |
+| 🏆 Competition | Participated in an Inter-College Capture The Flag competition. |
+| 📚 Learning | Continuously improving Java Backend Development and Security Operations skills. |
 
 ---
 
@@ -599,6 +610,7 @@ Threat Hunting
 ```
 
 ---
+
 # GitHub Analytics
 
 <div align="center">
@@ -648,8 +660,6 @@ Threat Hunting
 <img src="https://raw.githubusercontent.com/prakash-c005/prakash-c005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
-
-> **Note:** This animation requires a GitHub Actions workflow, which we'll configure after your README is complete.
 
 ---
 
