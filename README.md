@@ -445,17 +445,6 @@ A Java console application designed to strengthen object-oriented programming fu
 
 ---
 
-## 🚀 Upcoming Projects
-
-| Project | Domain | Status |
-|:--------|:-------|:------:|
-| 🔐 Secure Folder System | Secure Software Engineering | In Development |
-| 🛡 AI-Powered Malware Traffic Detection & SOC Dashboard | Cyber Security | Planning & Research |
-
-> These projects are currently under active development and will be added as featured repositories upon completion.
-
----
-
 # Experience
 
 <div align="center">
@@ -682,8 +671,6 @@ Threat Hunting
 ## 2026 Goals
 
 - Build production-ready Spring Boot applications
-- Complete Secure Folder System
-- Develop the SOC Monitoring Dashboard
 - Solve more DSA problems using Java
 - Contribute to open-source projects
 - Strengthen backend architecture and secure coding practices
