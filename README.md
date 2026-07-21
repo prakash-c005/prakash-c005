@@ -273,56 +273,6 @@ Currently, I'm focused on improving my backend development skills through hands-
 
 ---
 
-## Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Spring_Boot-Backend_APIs-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System_Design-Learning-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Threat_Hunting-Hands_On-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Incident_Response-SOC-4338CA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-Java-4F46E5?style=for-the-badge"/>
-
-</div>
-
----
-
-## Development Workflow
-
-```text
-Problem
-    │
-    ▼
-
-Design Solution
-    │
-    ▼
-
-Write Clean Java Code
-    │
-    ▼
-
-Secure Implementation
-    │
-    ▼
-
-Testing & Debugging
-    │
-    ▼
-
-Version Control (Git)
-    │
-    ▼
-
-Continuous Improvement
-```
-
----
-
 # Featured Projects
 
 <div align="center">
@@ -564,47 +514,21 @@ Worked as a Cyber Security Intern, gaining practical exposure to cybersecurity c
 
 ---
 
-## Learning Journey
-
-```text
-Java Fundamentals
-        │
-        ▼
-
-Object-Oriented Programming
-        │
-        ▼
-
-Spring Boot Backend Development
-        │
-        ▼
-
-Cyber Security Internship
-        │
-        ▼
-
-Capture The Flag Challenges
-        │
-        ▼
-
-Security Operations (SOC)
-        │
-        ▼
-
-Incident Response
-        │
-        ▼
-
-Threat Hunting
-```
-
----
-
 # GitHub Analytics
 
 <div align="center">
 
-*"Consistency is built one commit at a time."*
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prakash-c005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-c005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=prakash-c005&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -642,62 +566,26 @@ Threat Hunting
 
 ---
 
-## Contribution Snake
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prakash-c005/prakash-c005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<a href="mailto:prakashcgmp@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prakash-c-553694296">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prakash-c005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/prakash_005/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
-
----
-
-## Development Summary
-
-<div align="center">
-
-| Focus Area | Current Direction |
-|:-----------|:------------------|
-| ☕ Primary Language | Java |
-| 🌱 Backend | Spring Boot |
-| 🛡 Security | SOC, Incident Response, Threat Hunting |
-| 📚 Learning | DSA, Backend Architecture, Secure Software |
-| 🎯 Goal | Java Backend Developer / SOC Analyst |
-
-</div>
-
----
-
-## 2026 Goals
-
-- Build production-ready Spring Boot applications
-- Solve more DSA problems using Java
-- Contribute to open-source projects
-- Strengthen backend architecture and secure coding practices
-- Earn additional cybersecurity certifications
-
----
-
-## GitHub Activity Philosophy
-
-```text
-Learn
-   │
-   ▼
-
-Build
-   │
-   ▼
-
-Improve
-   │
-   ▼
-
-Share
-   │
-   ▼
-
-Repeat
-```
-
----
