@@ -514,30 +514,6 @@ Worked as a Cyber Security Intern, gaining practical exposure to cybersecurity c
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash-c005&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-c005&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakash-c005&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakash-c005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-c005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
 ## Contribution Streak
 
 <div align="center">
